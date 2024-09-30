@@ -1,2 +1,7 @@
 create text.txt file
 changed text
+commands used in git 
+git add "file name" -> used for adding the changes in the vs
+git commit -m "command" -> used for commiting the changes in the git
+git push origin main -> to make the changes in the github
+git pull -> to apply the changes made in github in vs
